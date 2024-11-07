@@ -4,7 +4,7 @@ Este é um projeto em Java para mesclar os conhecimentos sobre Array e Interface
 
 # 🚀 Começando
 
-- Crie um codigo para demonstrar uo gerenciamento de frutas com array e interface.
+- Crie um codigo para demonstrar os gerenciamento de frutas com array e interface.
 - Import 
 
 # 📋 Pré-requisitos
