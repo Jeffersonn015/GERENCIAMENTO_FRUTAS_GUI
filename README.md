@@ -1,6 +1,6 @@
 # Gerenciamento de Frutas GUI
 
-Este é um projeto em Java para mesclar os conhecimentos sobre Array e Interfaces. 
+Este exercício solicita o uso de conhecimento sobre arrays e interfaces para criar uma lista de gerenciamento de frutas com botões para adicionar, remover e modificar itens na lista
 
 # 🚀 Começando
 
